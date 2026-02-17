@@ -1,0 +1,4 @@
+.doctorly-admin-wrap .doctorly-grid{display:grid;gap:16px;margin-top:16px}.doctorly-admin-wrap .doctorly-grid.cols-2{grid-template-columns:1fr 1fr}
+.doctorly-card{background:#fff;border:1px solid #e5e7eb;padding:16px;border-radius:10px}
+.doctorly-builder input[type=text],.doctorly-builder input[type=number],.doctorly-builder textarea{width:100%}
+.invoice-preview{padding:16px;background:#f8fafc;border-radius:8px}
