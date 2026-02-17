@@ -1,0 +1,3 @@
+.doctorly-admin-wrap .doctorly-card-grid { display:grid; grid-template-columns:repeat(3,minmax(160px,1fr)); gap:16px; }
+.doctorly-admin-wrap .doctorly-card { background:#fff; border-left:4px solid #0A5FFF; padding:16px; }
+.doctorly-admin-wrap .nav-tab-wrapper { margin-bottom:18px; }
