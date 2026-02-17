@@ -1,0 +1,5 @@
+.woocommerce-account .woocommerce-MyAccount-content{width:100%!important}
+.doctorly-shell{padding:24px;background:#f7f9fc;border-radius:12px}
+.doctorly-grid{display:grid;gap:16px}.doctorly-grid.cols-3{grid-template-columns:repeat(auto-fit,minmax(220px,1fr))}
+.doctorly-panel{background:#fff;padding:18px;border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,.06)}
+.package-card .price{font-size:26px;font-weight:700;color:#2563eb;margin-bottom:8px}
